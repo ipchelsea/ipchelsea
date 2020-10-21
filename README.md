@@ -1,7 +1,7 @@
 ### Hey there, my name's Chelsea! 👋
 
 #### About Me 🥰🎀
-**My name is Chelsea.** I graduated from University of Washington with a B.Sc. Computer Science and Softfware Engineering, in June 2020. My further curiosity in Computer Vision & Autopilot systems further led me to enroll in Georgia Tech's Masters of Science in Computer Science (ML & AI) part time program!
+**My name is Chelsea.** I graduated from University of Washington with a B.Sc. Computer Science and Softfware Engineering, in July. My further curiosity in Computer Vision & Autopilot systems further led me to enroll in Georgia Tech's Masters of Science in Computer Science (ML & AI) part time program! One of the projects I'm working on now is an AI agent that can identify 192 visual/verbal problems via RMS difference, Python PIL & Numpy libraries.
 
 #### Experience 💻📍
 

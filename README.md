@@ -9,6 +9,8 @@
 
 ### Skills 🐱‍💻
 
-| Programming Language  | Content Cell  |
-| Content Cell  | Content Cell  |
 
+| Technical  |  |
+| ------------- | ------------- |
+| Languages  | Python, Java, C++, Assembly (Motorola 68K)  |
+| Content Cell  | Content Cell  |

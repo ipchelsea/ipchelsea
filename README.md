@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-#### About Me
+#### About Me 🥰🎀
 
-#### Experience
+#### Experience 💻📍
 
-#### Education 
+#### Education 👩‍🎓
 
-# Language
+#### Language ❣
 
-# Skills
+#### Skills 🐱‍💻
 

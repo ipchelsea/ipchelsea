@@ -9,8 +9,6 @@
 
 ### Skills 🐱‍💻
 
-| First Header  | Second Header |
-| ------------- | ------------- |
 | Programming Language  | Content Cell  |
 | Content Cell  | Content Cell  |
 

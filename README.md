@@ -1,7 +1,7 @@
 
 
 ### About Me 💟
-***My name is Chelsea.*** I graduated from University of Washington with a B.Sc. Computer Science and Softfware Engineering, in July. My further curiosity in Computer Vision  further led me to enroll in Georgia Tech's Masters of Science in Computer Science (ML & AI) part time program! 
+***My name is Chelsea.*** I graduated from University of Washington with a B.Sc. Computer Science and Softfware Engineering, in July. My further curiosity in Computer Vision led me to join Georgia Tech's Masters of Science in Computer Science (ML & AI) part time program! 
 
 ***Outside of my 9 to 5.*** 
 

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, my name's Chelsea! 👋
 
 #### About Me 🥰🎀
 

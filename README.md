@@ -13,4 +13,4 @@
 | Technical  |  |
 | ------------- | ------------- |
 | Languages  | Python, Java, C++, Assembly (Motorola 68K)  |
-| Content Cell  | Content Cell  |
+| Deep Learning  | Tensorflow, Panda3D, OpenCV, Anaconda, Numpy, PIL|

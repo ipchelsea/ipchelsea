@@ -9,8 +9,7 @@
 
 ***My Life Philosophy.*** Results is the compound interest of 1) Consistent effort in a focused direction. 2) Constant incremental progress. 3) Long term gratification. 
 
-### Skills 
-
+### Skills 💭
 
 | Technical  |  |
 | ------------- | ------------- |

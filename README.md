@@ -7,7 +7,7 @@
 
 ***Current Projects.*** I'm working on an AI agent that can identify 192 visual patterns from Raven's Progressive Mattrices. I've also been designing a Twitter Analytics Dashboard with my sisters in my own time; Twitter is my favorite social media app of all time. 👀
 
-***Life Philosophy*** "Results is the compound interest of 1) Consistent effort in a focused direction. 2)Constant incremental progress. 3)Long term gratification. 
+***Life Philosophy*** Results is the compound interest of 1) Consistent effort in a focused direction. 2) Constant incremental progress. 3) Long term gratification. 
 
 ### Skills 
 

@@ -5,7 +5,7 @@
 
 ***Outside of my 9 to 5.*** 
 
-***Current Projects.*** I'm working on an AI agent that can identify 192 visual patterns from Raven's Progressive Mattrices. I've also been designing a Twitter Analytics Dashboard with my sisters in my own time; Twitter is my favorite social media app of all time👀
+***Current Projects.*** I'm working on an AI agent that can identify 192 visual patterns from Raven's Progressive Mattrices. I've also been designing a Twitter Analytics Dashboard with my sisters in my own time; Twitter is my favorite social media app of all time. 👀
 
 ### Skills 
 

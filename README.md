@@ -22,4 +22,5 @@
 ### Work ⏰
 
 ***Present.*** ADP LLC, Application Developer.
-- What I love about working here :
+- Created an I-9 processing system with PL/SQL (Oracle DB), Java (Spring Boot), and Angular in an Agile environment.
+- Worked closely with product owner to streamline the execution of program priorities and ensure stories meet their user’s needs.

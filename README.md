@@ -9,7 +9,7 @@
 
 ***Interests.*** UI/UX, Application Development, Computer Vision, Financial Engineering, & Product Management.
 
-***My Life Philosophy.*** Results is the compound interest of 1) Consistent effort in a focused direction. 2) Constant incremental progress. 3) Long term gratification. 4) Always treat people with respect.
+***My Life Philosophy.*** Results is the compound interest of 1) Consistent effort in a focused direction. 2) Constant incremental progress.   3) Long term gratification. 4) Always treat people with respect.
 
 ### Skills 💭
 

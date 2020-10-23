@@ -5,7 +5,7 @@
 
 ***Mission Statement.*** I care about tech for social good, particularly in social justice and protecting the environment. As a Software Engineer, I want to use my skills to solve challenging research, design, and engineering problems that will contribute to society's betterment. 
 
-***Current Projects.*** I'm working on an AI agent that can identify 192 visual patterns from Raven's Progressive Mattrices. I've also been learning how to write good technical documentation in my own time. 👀
+***Current Projects.*** I'm working on an AI agent that can identify 192 visual patterns from Raven's Progressive Matrices. Besides hands on projects, I've also been learning how to write good technical documentation in my own time. 👀
 
 ***Interests.*** UI/UX, Application Development, Computer Vision, Financial Engineering, & Product Management.
 

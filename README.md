@@ -19,6 +19,6 @@
 | Backend |  Flask, Django, AWS (EC2, Elastic Beanstalk, S3, DynamoDB, Boto3), Azure, REST APIs, SOAP, ASP.NET|
 | Tools/Databases  |Visual Studio, Xamarin, VSCode, Google Cloud Platform, Google Firebase, MySQL, GitHub, Git, Unity, Oracle DB |
 
-### Work ⏰
+### Experience ⏰
 
-***Present.*** ADP LLC, Application Developer.  ||  ***Past.*** Skive It, MedIntellibase Intelligence Solutions, Green Guide Inc
+***Present.*** ADP LLC, Application Developer.  ||  ***Past.*** Skive It, MedIntellibase Intelligence Solutions, Green Guide Inc, UW Blockchain Society, NEAR Protocol

@@ -21,4 +21,4 @@
 
 ### Experience ⏰
 
-***Present.*** ADP LLC, Application Developer.  ||  ***Past.*** Skive It, MedIntellibase Intelligence Solutions, Green Guide Inc, UW Blockchain Society, NEAR Protocol
+***Present.*** ADP LLC, Application Developer.  ||  ***Past.*** Skive It, MedIntellibase, Green Guide Inc, UW Blockchain Society, NEAR Protocol

@@ -18,3 +18,7 @@
 | Frontend/Client  | Javascript, HTML5, CSS3, jQuery, AJAX, Node.JS|
 | Backend |  Flask, Django, AWS (EC2, Elastic Beanstalk, S3, DynamoDB, Boto3), Azure, REST APIs, SOAP, ASP.NET|
 | Tools/Databases  |Visual Studio, Xamarin, VSCode, Google Cloud Platform, Google Firebase, MySQL, GitHub, Git, Unity, Oracle DB |
+
+### Work ⏰
+
+***Currently***

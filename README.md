@@ -11,6 +11,8 @@
 
 ***My Life Philosophy.*** Results is the compound interest of 1) Consistent effort in a focused direction. 2) Constant incremental progress.   3) Long term gratification. 4) Always treat people with respect.
 
+"Do the best you can until you know better. Then when you know better, do better.” — Maya Angelou
+
 ### Skills 💭
 
 | Technical  |  |
@@ -25,4 +27,4 @@
 
 ***Present.*** ADP LLC, Application Developer.  ||  ***Past.*** Skive It, MedIntellibase, Green Guide Inc, UW Blockchain Society, NEAR Protocol
 
-*** One last thing.*** “Do the best you can until you know better. Then when you know better, do better.” — Maya Angelou***
+

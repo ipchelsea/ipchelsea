@@ -27,7 +27,7 @@ My name is Chelsea. I am a creative self-starter.
 
 ### Work ⏰
 
-***Present.*** ADP LLC, Application Developer.  ||  ***Past.*** Skive It, MedIntellibase, Green Guide Inc, UW Blockchain Society, NEAR Protocol
+***Present.*** [ADP LLC](https://en.wikipedia.org/wiki/ADP_(company)), Application Developer.  ||  ***Past.*** Skive It, MedIntellibase, Green Guide Inc, UW Blockchain Society, NEAR Protocol
 
 ### Hackathons & Extras 🌼💖 
 - Hacks 20' 🏆 [Best Use of Google Cloud](https://hack-20.devpost.com/) 🏆

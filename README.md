@@ -17,13 +17,13 @@ My name is Chelsea. I am a creative self-starter.
 
 | Technical  |  |
 | ------------- | ------------- |
-| Languages  |Python, Java, C++, Assembly (Motorola 68K) , SQL, JavaScript  |
+| Programming Languages  |Python, Java, C++, Assembly (Motorola 68K) , SQL, JavaScript  |
 | Deep Learning  | Tensorflow, Panda3D, OpenCV, Anaconda, Numpy, PIL|
 | Frontend/Client  | Angular, HTML5, CSS3, jQuery, AJAX|
 | Backend/Server | Spring Boot, REST APIs, Docker, Flask, Django, AWS (EC2, Elastic Beanstalk, S3, Boto3), Azure,  NoSQL|
 | Databases | MySQL, OracleDB, DynamoDB, Redis |
 | Tools| GitHub, Git, VSCode, Google Cloud Platform, Google Firebase, Xamarin|
-| Speaki
+| Speaking Languages | English, Mandarin, Cantonese Malaysian| 
 
 ### Work ⏰
 

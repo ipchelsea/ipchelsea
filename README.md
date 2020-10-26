@@ -34,6 +34,6 @@ My name is Chelsea. I am a Software Engineer & a creative self-starter.
 - DuckHacks for Social Good 20' 🏆 [Best Active Tooling Award](https://duckhacks-for-social-good.devpost.com)🏆
 
 ### Organizations
-UW Blockchain Society • Women of Rewriting the Code  • Google Women Tech Makers • Society of Women Engineers • Built By Girls • SHPE
+UW Blockchain Society • Women of RTC  • Google Women Tech Makers • Society of Women Engineers • Built By Girls • SHPE
 
 

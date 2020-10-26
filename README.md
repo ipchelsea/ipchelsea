@@ -23,7 +23,7 @@ My name is Chelsea. I am a Software Engineer & a creative self-starter.
 | Backend/Server | Spring Boot, REST APIs, Docker, Flask, Django, AWS (EC2, Elastic Beanstalk, S3, Boto3), Azure,  NoSQL|
 | Databases | MySQL, OracleDB, DynamoDB, Redis |
 | Tools| GitHub, Git, VSCode, Google Cloud Platform, Google Firebase, Xamarin|
-| Speaking Languages | English, Mandarin, Cantonese Malaysian| 
+| Speaking Languages | English, Mandarin, Cantonese, Malaysian| 
 
 ### Work ⏰
 

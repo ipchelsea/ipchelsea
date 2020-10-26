@@ -26,7 +26,7 @@
 ***Present.*** ADP LLC, Application Developer.  ||  ***Past.*** Skive It, MedIntellibase, Green Guide Inc, UW Blockchain Society, NEAR Protocol
 
 ### Hackathons & Extras 🌼💖 
-- Hacks 20' (Best Use of Google Cloud) [https://devpost.com/software/miranda]🏆
+- Hacks 20' [Best Use of Google Cloud](https://devpost.com/software/miranda) 🏆
 - DuckHacks for Social Good 20' ( Best Active Tooling Award) 🏆
 
 

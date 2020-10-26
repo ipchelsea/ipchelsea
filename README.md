@@ -5,7 +5,7 @@
 
 ***Mission Statement.*** I care about tech for social good, particularly in social justice and protecting the environment. As a Software Engineer, I want to use my skills to solve challenging research, design, and engineering problems that will contribute to society's betterment. 
 
-***My Philosophy.*** Results is the compound interest of 1) Consistent effort in a focused direction. 2) Constant incremental progress.   3) Long term gratification. 4) Always treat people with respect.
+***My Philosophy.*** Results is the compound interest of 1) Consistent effort in a focused direction. 2) Constant incremental progress.   3) Long term gratification.
 
 ***Interests.*** UI/UX, Application Development, Computer Vision, Financial Engineering, & Product Management.
 
@@ -26,7 +26,7 @@
 ***Present.*** ADP LLC, Application Developer.  ||  ***Past.*** Skive It, MedIntellibase, Green Guide Inc, UW Blockchain Society, NEAR Protocol
 
 ### Hackathons & Extras 🌼💖 
-- Hacks 20' 🏆 [Best Use of Google Cloud](https://devpost.com/software/miranda) 🏆
+- Hacks 20' 🏆 [Best Use of Google Cloud](https://hack-20.devpost.com/) 🏆
 - DuckHacks for Social Good 20' 🏆 [Best Active Tooling Award](https://duckhacks-for-social-good.devpost.com)🏆
 
 

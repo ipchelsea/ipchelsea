@@ -5,8 +5,6 @@
 
 ***Mission Statement.*** I care about tech for social good, particularly in social justice and protecting the environment. As a Software Engineer, I want to use my skills to solve challenging research, design, and engineering problems that will contribute to society's betterment. 
 
-***Current Projects.*** I'm working on an AI agent that can identify 192 visual patterns from Raven's Progressive Matrices. Besides hands on projects, I've also been learning how to write good technical documentation in my own time. 👀
-
 ***Interests.*** UI/UX, Application Development, Computer Vision, Financial Engineering, & Product Management.
 
 ***My Life Philosophy.*** Results is the compound interest of 1) Consistent effort in a focused direction. 2) Constant incremental progress.   3) Long term gratification. 4) Always treat people with respect.
@@ -28,7 +26,10 @@
 ***Present.*** ADP LLC, Application Developer.  ||  ***Past.*** Skive It, MedIntellibase, Green Guide Inc, UW Blockchain Society, NEAR Protocol
 
 ### Hackathons & Extras 🌼💖 
-- DubHacks 20'
+- DubHacks 20' 🏆
+- DuckHacks 20' 🏆
+- Technica
+- Kent Hack Enough
 
 
 

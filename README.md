@@ -1,7 +1,7 @@
 
 
 ### About Me 💟👩🏻
-My name is Chelsea. I am a Software Engineer & Creative self-starter.
+My name is Chelsea. I am a Software Engineer & a creative self-starter.
 
 ***Education.*** I graduated from University of Washington with a B.Sc. Computer Science and Software Engineering, in July. My further curiosity in Computer Vision led me to join Georgia Tech's Masters of Science in Computer Science (ML & AI) part time program! 
 
@@ -33,6 +33,7 @@ My name is Chelsea. I am a Software Engineer & Creative self-starter.
 - Hacks 20' 🏆 [Best Use of Google Cloud](https://hack-20.devpost.com/) 🏆
 - DuckHacks for Social Good 20' 🏆 [Best Active Tooling Award](https://duckhacks-for-social-good.devpost.com)🏆
 
-
+### Organizations
+UW Blockchain Society • Women of Rewriting the Code  • Google Women Tech Makers • Society of Women Engineers • Built By Girls • SHPE
 
 

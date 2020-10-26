@@ -1,7 +1,7 @@
 
 
 ### About Me 💟👩🏻
-***My name is Chelsea.*** 
+My name is Chelsea. I am a creative self-starter, who can excel in a fast-paced environment and provide clarity admist considerable ambiguity.
 
 ***Education.*** I graduated from University of Washington with a B.Sc. Computer Science and Software Engineering, in July. My further curiosity in Computer Vision led me to join Georgia Tech's Masters of Science in Computer Science (ML & AI) part time program! 
 
@@ -23,6 +23,7 @@
 | Backend/Server | Spring Boot, REST APIs, Docker, Flask, Django, AWS (EC2, Elastic Beanstalk, S3, Boto3), Azure,  NoSQL|
 | Databases | MySQL, OracleDB, DynamoDB, Redis |
 | Tools| GitHub, Git, VSCode, Google Cloud Platform, Google Firebase, Xamarin|
+| Speaki
 
 ### Work ⏰
 

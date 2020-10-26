@@ -27,7 +27,7 @@
 
 ### Hackathons & Extras 🌼💖 
 - Hacks 20' 🏆 [Best Use of Google Cloud](https://devpost.com/software/miranda) 🏆
-- DuckHacks for Social Good 20' 🏆 [Best Active Tooling Award] (https://devpost.com/software/miranda)🏆
+- DuckHacks for Social Good 20' 🏆 [Best Active Tooling Award] (https://duckhacks-for-social-good.devpost.com/)🏆
 
 
 

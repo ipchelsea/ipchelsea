@@ -1,7 +1,7 @@
 
 
 ### About Me 💟👩🏻
-***My name is Chelsea.*** I graduated from University of Washington with a B.Sc. Computer Science and Software Engineering, in July. My further curiosity in Computer Vision led me to join Georgia Tech's Masters of Science in Computer Science (ML & AI) part time program! 
+***My name is Chelsea.*** I graduated from University of Washington with a B.Sc. Computer Science and Software Engineering, in July. My further curiosity in Computer Vision led me to join Georgia Tech's Masters of Science in Computer Science (ML & AI) part time program! Currently, I am also 
 
 ***Mission Statement.*** I care about tech for social good, particularly in social justice and protecting the environment. As a Software Engineer, I want to use my skills to solve challenging research, design, and engineering problems that will contribute to society's betterment. 
 
@@ -15,11 +15,12 @@
 
 | Technical  |  |
 | ------------- | ------------- |
-| Languages  | Python, Java, C++, Assembly (Motorola 68K)  |
+| Languages  |Python, Java, C++, Assembly (Motorola 68K) , SQL, JavaScript  |
 | Deep Learning  | Tensorflow, Panda3D, OpenCV, Anaconda, Numpy, PIL|
-| Frontend/Client  | Javascript, HTML5, CSS3, jQuery, AJAX, Node.JS|
-| Backend |  Flask, Django, AWS (EC2, Elastic Beanstalk, S3, DynamoDB, Boto3), Azure, REST APIs, SOAP, ASP.NET|
-| Tools/Databases  |Visual Studio, Xamarin, VSCode, Google Cloud Platform, Google Firebase, MySQL, GitHub, Git, Unity, Oracle DB |
+| Frontend/Client  | Angular, HTML5, CSS3, jQuery, AJAX|
+| Backend/Server | Spring Boot, REST APIs, Docker, Flask, Django, AWS (EC2, Elastic Beanstalk, S3, Boto3), Azure,  NoSQL|
+| Databases | MySQL, OracleDB, DynamoDB, Redis |
+| Tools| GitHub, Git, VSCode, Google Cloud Platform, Google Firebase, Xamarin|
 
 ### Experience ⏰
 

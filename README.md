@@ -26,10 +26,9 @@
 ***Present.*** ADP LLC, Application Developer.  ||  ***Past.*** Skive It, MedIntellibase, Green Guide Inc, UW Blockchain Society, NEAR Protocol
 
 ### Hackathons & Extras 🌼💖 
-- DubHacks 20' 🏆
-- DuckHacks 20' 🏆
-- Technica
-- Kent Hack Enough
+- Hacks 20' (Best Use of Google Cloud) 🏆
+- DuckHacks for Social Good 20' ( Best Active Tooling Award) 🏆
+
 
 
 

@@ -27,6 +27,8 @@
 
 ***Present.*** ADP LLC, Application Developer.  ||  ***Past.*** Skive It, MedIntellibase, Green Guide Inc, UW Blockchain Society, NEAR Protocol
 
-### Hackathons & Extras 🌼💖
+### Hackathons & Extras 🌼💖 
+- DubHacks 20'
+
 
 

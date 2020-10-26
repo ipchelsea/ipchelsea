@@ -1,7 +1,9 @@
 
 
 ### About Me 💟👩🏻
-***My name is Chelsea.*** I graduated from University of Washington with a B.Sc. Computer Science and Software Engineering, in July. My further curiosity in Computer Vision led me to join Georgia Tech's Masters of Science in Computer Science (ML & AI) part time program! Currently, I am also 
+***My name is Chelsea.*** 
+
+***Education.*** I graduated from University of Washington with a B.Sc. Computer Science and Software Engineering, in July. My further curiosity in Computer Vision led me to join Georgia Tech's Masters of Science in Computer Science (ML & AI) part time program! 
 
 ***Mission Statement.*** I care about tech for social good, particularly in social justice and protecting the environment. As a Software Engineer, I want to use my skills to solve challenging research, design, and engineering problems that will contribute to society's betterment. 
 
@@ -22,7 +24,7 @@
 | Databases | MySQL, OracleDB, DynamoDB, Redis |
 | Tools| GitHub, Git, VSCode, Google Cloud Platform, Google Firebase, Xamarin|
 
-### Experience ⏰
+### Work ⏰
 
 ***Present.*** ADP LLC, Application Developer.  ||  ***Past.*** Skive It, MedIntellibase, Green Guide Inc, UW Blockchain Society, NEAR Protocol
 

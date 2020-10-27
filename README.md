@@ -1,7 +1,7 @@
 
 
 ### About Me 💟👩🏻
-My name is Chelsea. I am a creative self-starter, an active learner and a Software Engineer. View my resume [here](https://www.slideshare.net/secret/K09JIdHZTRGx9x)
+My name is Chelsea. I am a creative self-starter, an active learner and a Software Engineer. View my resume [here](https://www.slideshare.net/secret/2gFEYaHUnHfTVI).
 
 ***Education.*** I graduated from University of Washington with a B.Sc. Computer Science and Software Engineering, in July. My further curiosity in Computer Vision led me to join Georgia Tech's Masters of Science in Computer Science (ML & AI) part time program! 
 

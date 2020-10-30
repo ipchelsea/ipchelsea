@@ -33,7 +33,7 @@ I graduated from University of Washington with a B.Sc. Computer Science and Soft
 ### Hackathons & Extras 🌼💖 
 - Hacks 20' 🏆 [Best Use of Google Cloud](https://hack-20.devpost.com/) 🏆
 - DuckHacks for Social Good 20' 🏆 [Best Active Tooling Award](https://duckhacks-for-social-good.devpost.com)🏆
-- Second Runner Up Hansik Global Cooking Competition
+- 2018 Hansik Global Cooking Competition 🏆[Second Runner Up]
 
 ### Organizations
 UW Blockchain Society • Women of RTC  • Google Women Tech Makers • Society of Women Engineers • Built By Girls • SHPE

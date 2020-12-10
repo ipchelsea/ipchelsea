@@ -12,7 +12,7 @@ I graduated from University of Washington with a B.Sc. Computer Science and Soft
 
 ***My Philosophy.*** Results is the compound interest of 1) Consistent effort in a focused direction. 2) Constant incremental progress.   3) Long term gratification.
 
-***Interests.*** UI/UX, Application Development, Computer Vision, Financial Engineering, & Product Management.
+***Interests.*** System Design Engineering, Data Intensive Applications & Distributed Systems.
 
 "Do the best you can until you know better. Then when you know better, do better.” — Maya Angelou
 
@@ -20,7 +20,7 @@ I graduated from University of Washington with a B.Sc. Computer Science and Soft
 
 | Technical  |  |
 | ------------- | ------------- |
-| Programming Languages  |Python, Java, C++, Assembly (Motorola 68K) , SQL, JavaScript  |
+| Programming Languages  |Python, Java, C/C++, Assembly (Motorola 68K) , SQL, JavaScript  |
 | Deep Learning  | Tensorflow, Panda3D, OpenCV, Anaconda, Numpy, PIL|
 | Frontend/Client  | Angular, HTML5, CSS3, jQuery, AJAX|
 | Backend/Server | Spring Boot, REST APIs, Docker, Flask, Django, AWS (EC2, Elastic Beanstalk, S3, Boto3), Azure,  NoSQL|

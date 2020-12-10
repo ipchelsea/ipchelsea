@@ -8,6 +8,8 @@ I graduated from University of Washington with a B.Sc. Computer Science and Soft
 
 ***Mission Statement.*** I care about tech for social good, particularly in social justice and protecting the environment. As a Software Engineer, I want to use my skills to solve challenging research, design, and engineering problems that will contribute to society's betterment. 
 
+***What it's like working with me..*** I allow people to show me their best, reveal to me their dreams, and my instinct is to take the ride with them, asking one question after another, each question carrying them along a little further, a little faster.
+
 ***My Philosophy.*** Results is the compound interest of 1) Consistent effort in a focused direction. 2) Constant incremental progress.   3) Long term gratification.
 
 ***Interests.*** UI/UX, Application Development, Computer Vision, Financial Engineering, & Product Management.

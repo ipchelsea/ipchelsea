@@ -4,7 +4,7 @@
 My name is Chelsea. I am a creative self-starter, an active learner and a Software Engineer. 
 
 ***Background.*** 
-I graduated from University of Washington with a B.Sc. Computer Science and Software Engineering. I have experience working multidimensional roles at startups within healthcare, aviation, and the environmental sector. Post graduation, I transitioned into the performance engineering division at ADP where I spend my 9 to 5 ensuring that the scalability and availability of all our products are met globally.
+I graduated from University of Washington with a B.Sc. Computer Science and Software Engineering. I have experience working multidimensional roles at startups within healthcare, aviation, and the environmental sector. Post graduation, I transitioned into the performance engineering division at [ADP LLC](https://en.wikipedia.org/wiki/ADP_(company))  where I spend my 9 to 5 ensuring that the scalability and availability of all our products are met globally.
 
 ***Mission Statement.*** I care about tech for social good, particularly in social justice and protecting the environment. As a Software Engineer, I want to use my skills to solve challenging research, design, and engineering problems that will contribute to society's betterment. 
 
